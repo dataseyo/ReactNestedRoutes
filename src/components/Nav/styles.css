@@ -1,0 +1,10 @@
+.nav__container {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav_container ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
