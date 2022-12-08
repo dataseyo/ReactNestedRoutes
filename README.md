@@ -1,6 +1,6 @@
 # React Nested Routes
 
-A basic skeleton for nesting routes in React and passing data to them, using redux toolkit to store the data.
+A basic skeleton for nesting routes in React and passing data to them, using redux toolkit to store the data. In this project, the Skills component is the one with nested/dependent routing. Robin implemented this using a [similar method here](https://www.robinwieruch.de/react-router-descendant-routes/), but without the data being passed using useLocation from react-router-dom.
 
 ## Steps
 
